@@ -1,3 +1,1 @@
-Do not respond!
-Do not respond!
-Do not respond!
+cat("Do not respond!\nDo not respond!\nDo not respond!")
